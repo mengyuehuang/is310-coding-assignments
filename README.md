@@ -1,4 +1,4 @@
-## IS310 coding HW repo for Mengyue Huang
+# IS310 coding HW repo for Mengyue Huang
 
 ### 🥥 🌔
 
