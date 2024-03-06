@@ -1,5 +1,5 @@
-Link,Volume Text,origin,year_period,volume,date,year,timestamp
-humanist.1987-1988.txt,"From: MCCARTY@UTOREPAS
+Link,origin,year_period,volume,date,year,timestamp,Volume Text
+humanist.1987-1988.txt,Converted_Text,1987-1988,,,,,"From: MCCARTY@UTOREPAS
 Subject: 
 Date: 12 May 1987, 23:50:02 EDT
 X-Humanist: Vol. 1 Num. 1 (1)
@@ -299,8 +299,8 @@ X-Humanist: Vol. 1 Num. 17 (17)
 
 This is a general plea.  I realise that many people on this list will
 not have a great interest in computer-drawn maps, but if you
-know of anyone",Converted_Text,1987-1988,,,,
-humanist.1988-1989.txt,"From: Sebastian Rahtz 
+know of anyone"
+humanist.1988-1989.txt,Converted_Text,1988-1989,,,,,"From: Sebastian Rahtz 
 Subject: C++ and Gnu on a PC
 Date: Tue, 3 Jan 89 18:21:40 GMT
 X-Humanist: Vol. 2 Num. 474 (1)
@@ -527,8 +527,8 @@ the kinds of things scholars in the humanities are doing in the
 area of computer applications, and how computer systems are being
 used in general to support scholarly communication and research,
 as part of my role in trying to develop the kinds of information
-systems and services that scholars will ",Converted_Text,1988-1989,,,,
-humanist.1989-1990.txt,"From: Willard McCarty 
+systems and services that scholars will "
+humanist.1989-1990.txt,Converted_Text,1989-1990,,,,,"From: Willard McCarty 
 Subject: Happy Birthday Humanist
 Date: 7 May 1989
 X-Humanist: Vol. 3 Num. 1 (1)
@@ -739,8 +739,8 @@ Essays in Criticism, Vol.21, No.1 (1971), 86-91.  If I recall it correctly,
 it included a plea to concordance-makers to bear in mind that words that
 might seem to them too neutral to include might well be of interest to
 critics with bees in their bonnets.  Alan Rudrum, English, Simon Fraser
-University, Burnaby, B.C.",Converted_Text,1989-1990,,,,
-humanist.1990-1991.txt,"From: Elaine Brennan & Allen Renear 
+University, Burnaby, B.C."
+humanist.1990-1991.txt,Converted_Text,1990-1991,,,,,"From: Elaine Brennan & Allen Renear 
 Subject: And now we are 3, or is it 4?
 Date: Mon, 07 May 90 16:59:47 EDT
 X-Humanist: Vol. 4 Num. 1 (1)
@@ -969,8 +969,8 @@ change gender.
 
 
 From: KESSLER                              
-Subject: Re: 3.1359  Go",Converted_Text,1990-1991,,,,
-humanist.1991-1992.txt,"From: Elaine Brennan & Allen Renear 
+Subject: Re: 3.1359  Go"
+humanist.1991-1992.txt,Converted_Text,1991-1992,,,,,"From: Elaine Brennan & Allen Renear 
 Subject: Volume 5, Number 1
 Date: Tue, 07 May 91 23:08:29 EDT
 X-Humanist: Vol. 5 Num. 1 (1)
@@ -1214,8 +1214,8 @@ can be accomplished just as easily through 'copyleft.'  Copyright is used to
 ensure that one party does not appropriate intellectual property of another,
 establish ownership and then commercially benefit from the sale and
 distribution: 'copyleft' will work just as well.  Copyright may be useful, we
-are sometimes told, in conjunction with centralized distribution, ",Converted_Text,1991-1992,,,,
-humanist.1992-1993.txt,"From: Elaine M Brennan 
+are sometimes told, in conjunction with centralized distribution, "
+humanist.1992-1993.txt,Converted_Text,1992-1993,,,,,"From: Elaine M Brennan 
 Subject: Humanist's Birthday
 Date: Sun, 10 May 92 23:00:50 EDT
 X-Humanist: Vol. 6 Num. 1 (1)
@@ -1497,8 +1497,8 @@ various prices for the text collections.
 John Higgins, University of Bristol.
 
 
-From: Micha",Converted_Text,1992-1993,,,,
-humanist.1993-1994.txt,"From: 6500card%ucsbuxa@hub.ucsb.edu (Cheryl A. Cardoza)
+From: Micha"
+humanist.1993-1994.txt,Converted_Text,1993-1994,,,,,"From: 6500card%ucsbuxa@hub.ucsb.edu (Cheryl A. Cardoza)
 Subject: Gopher Intertextuality
 Date: Sat, 8 May 93 07:07:31 PDT
 X-Humanist: Vol. 7 Num. 1 (1)
@@ -1704,8 +1704,8 @@ to publish electronically, although there are some very serious
 social and technical problems to be solved before exclusive
 e-publication can be a practical alternative.  I am bothered,
 however, by the imitative approach, both because it lacks wit and
-because it avoids the syste",Converted_Text,1993-1994,,,,
-humanist.1994-1995.txt,"From: Andrew Burday 
+because it avoids the syste"
+humanist.1994-1995.txt,Converted_Text,1994-1995,,,,,"From: Andrew Burday 
 Subject: Re: 7.0638 Qs: History of Parks; Landscapes (1/78)
 Date: Fri, 6 May 1994 17:22:07 -0400 (EDT)
 X-Humanist: Vol. 8 Num. 1 (1)
@@ -1969,8 +1969,8 @@ Below is an article about the workshop..
 
 .................
 
-                    Adapt-it Works",Converted_Text,1994-1995,,,,
-humanist.1995-1996.txt,"From: ""Gregory Bloomquist"" 
+                    Adapt-it Works"
+humanist.1995-1996.txt,Converted_Text,1995-1996,,,,,"From: ""Gregory Bloomquist"" 
 Subject: Round Table Text
 Date: Tuesday, May 30, 1995, 7:30 p.m.
 X-Humanist: Vol. 9 Num. 1 (1)
@@ -2275,8 +2275,8 @@ Lecturer in Historical Computing
 School of History and Archaeology
 University of Glasgow
 1 University Gardens
-Glasgow G12 8",Converted_Text,1995-1996,,,,
-humanist.1996-1997.txt,"From: Humanist 
+Glasgow G12 8"
+humanist.1996-1997.txt,Converted_Text,1996-1997,,,,,"From: Humanist 
 Subject: Humanist begins its 10th year
 Date: 
 X-Humanist: Vol. 10 Num. 1 (1)
@@ -2470,8 +2470,8 @@ of subscribers.
 		characters used by grep.
 
 	Once the new database engine is in full swing, Humanist will accept
-new subscriptions _only_ via the WWW.  Use",Converted_Text,1996-1997,,,,
-humanist.1997-1998.txt,"From: Willard McCarty 
+new subscriptions _only_ via the WWW.  Use"
+humanist.1997-1998.txt,Converted_Text,1997-1998,,,,,"From: Willard McCarty 
 Subject: mind no mind
 Date: Thu, 22 May 1997 20:50:10 +0100
 X-Humanist: Vol. 11 Num. 1 (1)
@@ -2728,8 +2728,8 @@ exist, to recover a sense of what people thought possible and desirable
 back at the dawn of recorded history, this at a moment when a list I
 co-moderate, NewJour, reports over 3700 existing e-journals and we know
 that we are scrambling just to keep from falling further behind in
-reporting them.  An Alta Vista search on Arachnet shows mainly tha",Converted_Text,1997-1998,,,,
-humanist.1998-1999.txt,"From: Willard McCarty 
+reporting them.  An Alta Vista search on Arachnet shows mainly tha"
+humanist.1998-1999.txt,Converted_Text,1998-1999,,,,,"From: Willard McCarty 
 Subject: one more than ten
 Date: Thu, 07 May 1998 23:35:17 +0100
 X-Humanist: Vol. 12 Num. 1 (1)
@@ -2938,8 +2938,8 @@ problem; the scientists (those not in the hire of the former), who were
 getting on with the research; and the newspapers, interested in selling
 papers by stirring up, shall we say, public concern. For text-analysis
 purposes these are just right, since with certain key words (e.g. ""body"")
-you can pick apart the texts fairly well for their poli",Converted_Text,1998-1999,,,,
-humanist.1999-2000.txt,"From: Willard McCarty 
+you can pick apart the texts fairly well for their poli"
+humanist.1999-2000.txt,Converted_Text,1999-2000,,,,,"From: Willard McCarty 
 Subject: HAPPY now we are 12 BIRTHDAY
 Date: Fri, 07 May 1999 07:29:39 +0100
 X-Humanist: Vol. 13 Num. 1 (1)
@@ -3123,8 +3123,8 @@ It is in trying to achieve this balance that I have declared myself to
 be a very strong supporter of the intellectual goals of the TEI and,
 at the same time, presented significant criticisms from a more practical
 perspective.  I would not, to be frank, waste my time criticizing the
-TEI if I were not completely convinced of the very high val",Converted_Text,1999-2000,,,,
-humanist.2000-2001.txt,"From: Willard McCarty 
+TEI if I were not completely convinced of the very high val"
+humanist.2000-2001.txt,Converted_Text,2000-2001,,,,,"From: Willard McCarty 
 Subject: HAPPY now we are 13 BIRTHDAY
 Date: 
 X-Humanist: Vol. 14 Num. 1 (1)
@@ -3441,8 +3441,8 @@ By N. Katherine Hayles
 
 <http://englishwww.humnet.ucla.edu/individuals/hayles/wiener.htm>
 [deleted quotation]
-<http://englishwww.humnet.ucla.edu",Converted_Text,2000-2001,,,,
-humanist.2001-2002.txt,"From: Willard McCarty 
+<http://englishwww.humnet.ucla.edu"
+humanist.2001-2002.txt,Converted_Text,2001-2002,,,,,"From: Willard McCarty 
 Subject: 14
 Date: Mon, 07 May 2001 09:08:31 +0100
 X-Humanist: Vol. 15 Num. 1 (1)
@@ -3759,8 +3759,8 @@ Ventura College, Doctorow Consultants, etc.
 
 
 From: ""Deepak Shah"" 
-Sub",Converted_Text,2001-2002,,,,
-humanist.2002-2003.txt,"From: NINCH-ANNOUNCE 
+Sub"
+humanist.2002-2003.txt,Converted_Text,2002-2003,,,,,"From: NINCH-ANNOUNCE 
 Subject: New Project: ""Archiving the Avant Garde: Documenting and
 Date: Tue, 07 May 2002 06:37:41 +0100
 X-Humanist: Vol. 16 Num. 1 (1)
@@ -4090,8 +4090,8 @@ called them, have become visible in relation to this commons: broad areas
 
 of learning that, we are beginning ever more clearly to realize, must
 
-become part of the background knowledge that cultivating t",Converted_Text,2002-2003,,,,
-humanist.2003-2004.txt,"From: Willard McCarty 
+become part of the background knowledge that cultivating t"
+humanist.2003-2004.txt,Converted_Text,2003-2004,,,,,"From: Willard McCarty 
 Subject: Happy Sweet 16
 Date: Thu, 08 May 2003 00:14:39 +0100
 X-Humanist: Vol. 17 Num. 1 (1)
@@ -4444,8 +4444,8 @@ set of conceptual glossaries for the Latin Vulgate Bible. So far, we
 
 have published a conceptual glossary to the Gospel according to John and
 
-are at present completing the analysis of the",Converted_Text,2003-2004,,,,
-humanist.2004-2005.txt,"From: Willard McCarty 
+are at present completing the analysis of the"
+humanist.2004-2005.txt,Converted_Text,2004-2005,,,,,"From: Willard McCarty 
 Subject: happy 17th birthday!
 Date: Fri, 07 May 2004 08:31:53 +0100
 X-Humanist: Vol. 18 Num. 1 (1)
@@ -4780,8 +4780,8 @@ Date: Fri, 07 May 2004 06:53:08 +0100
 X-Humanist: Vol. 18 Num. 6 (6)
 
 
-The selectio",Converted_Text,2004-2005,,,,
-humanist.2005-2006.txt,"From: Willard McCarty 
+The selectio"
+humanist.2005-2006.txt,Converted_Text,2005-2006,,,,,"From: Willard McCarty 
 Subject: Happy 18th birthday to Humanist
 Date: Sat, 07 May 2005 23:11:31 +0100
 X-Humanist: Vol. 19 Num. 1 (1)
@@ -4957,8 +4957,8 @@ Date: Sat, 07 May 2005 07:54:03 +0100
 X-Humanist: Vol. 19 Num. 4 (4)
 
 Hello Willard,
-A very ",Converted_Text,2005-2006,,,,
-humanist.2006-2007.txt,"From: Willard McCarty 
+A very "
+humanist.2006-2007.txt,Converted_Text,2006-2007,,,,,"From: Willard McCarty 
 Subject: Happy 19th birthday!!!!!
 Date: Sun, 07 May 2006 12:30:39 +0100
 X-Humanist: Vol. 20 Num. 1 (1)
@@ -5118,8 +5118,8 @@ to construct model sites in ancient Rome to the use of simulations to plan
 for pandemics and the use of software to model the impact that emotion plays
 in individual and group decision making.
 The symposium will be convened 8:30 a.m. on May 30th, 2006 at York
-University during the Congress of the Humanities and So",Converted_Text,2006-2007,,,,
-humanist.2007-2008.txt,"From: Willard McCarty 
+University during the Congress of the Humanities and So"
+humanist.2007-2008.txt,Converted_Text,2007-2008,,,,,"From: Willard McCarty 
 Subject: Humanist's 20th
 Date: Sun, 07 May 2007 11:02:27 +0100
 X-Humanist: Vol. 21 Num. 1 (1)
@@ -5310,8 +5310,8 @@ X-Humanist: Vol. 21 Num. 4 (4)
 
 Dear Sir,
 I would like to announce the recent publication of a special issue of
-the peer-r",Converted_Text,2007-2008,,,,
-Humanist.21.542-21.680.txt,"Return-Path: 
+the peer-r"
+Humanist.21.542-21.680.txt,Current,,21,,,,"Return-Path: 
 Received: from fep16.clear.net.nz (fep16 [192.168.16.117]) by local-daemon (CLEAR Net Mail) with ESMTP id <0JW8004CZFG490E0@local-daemon> for ccreegan@clear.net.nz; Fri, 15 Feb 2008 03:12:43 +1300 (NZDT)
 Received: from mxin3-orange.clear.net.nz (lb2-srcnat.clear.net.nz [203.97.32.237]) by mx8.clear.net.nz (CLEAR Net Mail) with ESMTP id <0JW800046FGRPL30@mx8.clear.net.nz> for ccreegan@clear.net.nz; Fri, 15 Feb 2008 03:12:31 +1300 (NZDT)
 Received: from postoffice05.princeton.edu (HELO Princeton.EDU) ([128.112.133.189]) by mxin3-orange.clear.net.nz with ESMTP; Fri, 15 Feb 2008 03:12:30 +1300
@@ -5440,8 +5440,8 @@ Date: Thu, 14 Feb 2008 13:56:41 +0000
 From: ""Humanist Discussion Group \(by way of Willard McCarty              \)"" 
 Subject: 21.543 cfp: special issue of the ALT Journal
 X-Originating-IP: [137.73.2.214]
-Sender: ""Humanist Discussion Gro",Current,,21,,,
-Humanist.vol22.txt,"Return-Path: 
+Sender: ""Humanist Discussion Gro"
+Humanist.vol22.txt,Current,,vol22,,,,"Return-Path: 
 Received: from fep14.clear.net.nz (fep14 [192.168.16.115]) by local-daemon (CLEAR Net Mail) with ESMTP id <0K0H00EK9MXHLGC0@local-daemon> for ccreegan@clear.net.nz; Wed, 07 May 2008 19:48:48 +1200 (NZST)
 Received: from mxin1-orange.clear.net.nz (lb2-srcnat.clear.net.nz [203.97.32.237]) by mx6.clear.net.nz (CLEAR Net Mail) with ESMTP id <0K0H00F0PN0SXFP1@mx6.clear.net.nz> for ccreegan@clear.net.nz; Wed, 07 May 2008 19:48:29 +1200 (NZST)
 Received: from postoffice04.princeton.edu (HELO Princeton.EDU) ([128.112.131.112]) by mxin1-orange.clear.net.nz with ESMTP; Wed, 07 May 2008 19:48:29 +1200
@@ -5625,8 +5625,8 @@ Human Mind (Oxford: Clarendon Press, 2007), of
 which I will quote the first paragraph from the Preface:
 
  >This book derives from the interests that I have
- >had, over many year",Current,,vol22,,,
-Humanist.vol23.txt,"From humanist-bounces@lists.digitalhumanities.org  Thu May  7 08:38:17 2009
+ >had, over many year"
+Humanist.vol23.txt,Current,,vol23,,,,"From humanist-bounces@lists.digitalhumanities.org  Thu May  7 08:38:17 2009
 Return-Path: 
 X-Original-To: humanist-archiver@digitalhumanities.org
 Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
@@ -5821,8 +5821,8 @@ engagement in educating future researchers (usually through a
 research-oriented doctoral program), and a commitment to progress in the 
 information field. 
 
-School",Current,,vol23,,,
-Humanist.vol24.txt,"From humanist-bounces@lists.digitalhumanities.org  Fri May  7 05:28:49 2010
+School"
+Humanist.vol24.txt,Current,,vol24,,,,"From humanist-bounces@lists.digitalhumanities.org  Fri May  7 05:28:49 2010
 Return-Path: 
 X-Original-To: humanist-archiver@digitalhumanities.org
 Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
@@ -6031,8 +6031,8 @@ himself believe{line]
 [line}That the birds there in all the garden round{line]
 [line}Had gathered from the day-long voice of Eve{line]
 [line}And added to their own,{phr] [phr}an oversound,{phr]{line]{quatrain]
-[quatrain}[line}[phr}H",Current,,vol24,,,
-Humanist.vol25.txt,"From humanist-bounces@lists.digitalhumanities.org  Sat May  7 07:16:32 2011
+[quatrain}[line}[phr}H"
+Humanist.vol25.txt,Current,,vol25,,,,"From humanist-bounces@lists.digitalhumanities.org  Sat May  7 07:16:32 2011
 Return-Path: 
 X-Original-To: humanist-archiver@digitalhumanities.org
 Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
@@ -6244,8 +6244,8 @@ From: Humanist Discussion Group
 To: humanist@lists.digitalhumanities.org
 MIME-Version: 1.0
 Message-Id: <20110509072152.7B35A13F758@woodward.joyent.us>
-Date: Mon,  ",Current,,vol25,,,
-Humanist.vol26.txt,"From humanist-bounces@lists.digitalhumanities.org  Mon May  7 20:11:08 2012
+Date: Mon,  "
+Humanist.vol26.txt,Current,,vol26,,,,"From humanist-bounces@lists.digitalhumanities.org  Mon May  7 20:11:08 2012
 Return-Path: 
 X-Original-To: humanist-archiver@digitalhumanities.org
 Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
@@ -6470,8 +6470,8 @@ Hugo Letice et al, Coherence in the Midst of Complexity: Advances in Social Comp
 
 
 This year's Reading Artifacts Summer Institute will take place August 
-13-17 2012 at the Canada Science & Technology Museum in ",Current,,vol26,,,
-Humanist.vol27.txt,"Return-Path: 
+13-17 2012 at the Canada Science & Technology Museum in "
+Humanist.vol27.txt,Current,,vol27,,,,"Return-Path: 
 X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
 	s16382816.onlinehome-server.info
 X-Spam-Level: 
@@ -6632,8 +6632,8 @@ On May 7, 2013, at 1:28 AM, Humanist Discussion Group wrote:
 > WM
 > -- 
 > Willard McCarty, FRAI / Professor of Humanities Computing & Director of
-",Current,,vol27,,,
-Humanist.vol28.txt,"Return-Path: 
+"
+Humanist.vol28.txt,Current,,vol28,,,,"Return-Path: 
 X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
 	s16382816.onlinehome-server.info
 X-Spam-Level: 
@@ -6835,8 +6835,8 @@ application ground for his merit. Here's repetition. Here he can scale.
 Here he can help the humanities benefit from computing power.
 
 But the researchers do not quite see the scientific merit of that. If it is
-hard to v",Current,,vol28,,,
-Humanist.vol29.txt,"Return-Path: 
+hard to v"
+Humanist.vol29.txt,Current,,vol29,,,,"Return-Path: 
 X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
 	s16382816.onlinehome-server.info
 X-Spam-Level: 
@@ -7049,8 +7049,8 @@ On 5/6/2015 5:00 AM, humanist-request@lists.digitalhumanities.org wrote:
 > of practicing historians. I?ve studied their use of technology, of both the
 > physical and digital library, and their communication behavior. I?ve
 > published on their awareness and knowledge of e-books, and am now looking
-> to develop one section of the findings from that paper into my the",Current,,vol29,,,
-Humanist.vol30.txt,"Return-Path: 
+> to develop one section of the findings from that paper into my the"
+Humanist.vol30.txt,Current,,vol30,,,,"Return-Path: 
 X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
 	s16382816.onlinehome-server.info
 X-Spam-Level: 
@@ -7240,8 +7240,8 @@ Received: from s16382816.onlinehome-server.info
 	by digitalhumanities.org (Postfix) with ESMTP id 8EE9E2423;
 	Sat,  7 May 2016 09:57:53 +0200 (CEST)
 Received: by digitalhumanities.org (Postfix, from userid 10009)
-	id 64587241F; Sat, ",Current,,vol30,,,
-Humanist.vol31.txt,"Return-Path: 
+	id 64587241F; Sat, "
+Humanist.vol31.txt,Current,,vol31,,,,"Return-Path: 
 X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
 	s16382816.onlinehome-server.info
 X-Spam-Level: 
@@ -7472,8 +7472,8 @@ _______________________________________________
 Unsubscribe at: http://www.dhhumanist.org/Restricted/listmember_interface.php
 List posts to: humanist@lists.digitalhumanities.org
 List info and archives at at: http://digitalhumanities.org/humanist
-Listmember interface at: http://digitalhumanities.org/humanist/Restricted/listmem",Current,,vol31,,,
-Humanist.vol32.txt,"Return-Path: 
+Listmember interface at: http://digitalhumanities.org/humanist/Restricted/listmem"
+Humanist.vol32.txt,Current,,vol32,,,,"Return-Path: 
 X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
 	s16382816.onlinehome-server.info
 X-Spam-Level: 
@@ -7669,655 +7669,655 @@ Received: from s16382816.onlinehome-server.info
 Received: by s16382816.onlinehome-server.info (Postfix, from userid 10009)
 	id A31871377; Mon,  7 May 2018 07:28:09 +0200 (CEST)
 From: Humanist Discussion Group 
-To: humanist@lists.digitalhumani",Current,,vol32,,,
-"May 7, 2021, 9:37 a.m. Humanist 35.1",Not FoundThe requested resource was not found on this server.,Virginia,,35.1,May 7, 2021,9:37 a.m.
-"May 7, 2021, 9:39 a.m. Humanist 35.2",Not FoundThe requested resource was not found on this server.,Virginia,,35.2,May 7, 2021,9:39 a.m.
-"May 7, 2021, 9:42 a.m. Humanist 35.3",Not FoundThe requested resource was not found on this server.,Virginia,,35.3,May 7, 2021,9:42 a.m.
-"May 8, 2021, 6:53 a.m. Humanist 35.4",Not FoundThe requested resource was not found on this server.,Virginia,,35.4,May 8, 2021,6:53 a.m.
-"May 8, 2021, 6:56 a.m. Humanist 35.5",Not FoundThe requested resource was not found on this server.,Virginia,,35.5,May 8, 2021,6:56 a.m.
-"May 8, 2021, 6:57 a.m. Humanist 35.6",Not FoundThe requested resource was not found on this server.,Virginia,,35.6,May 8, 2021,6:57 a.m.
-"May 9, 2021, 9:18 a.m. Humanist 35.7",Not FoundThe requested resource was not found on this server.,Virginia,,35.7,May 9, 2021,9:18 a.m.
-"May 9, 2021, 9:24 a.m. Humanist 35.8",Not FoundThe requested resource was not found on this server.,Virginia,,35.8,May 9, 2021,9:24 a.m.
-"May 11, 2021, 7:45 a.m. Humanist 35.9",Not FoundThe requested resource was not found on this server.,Virginia,,35.9,May 11, 2021,7:45 a.m.
-"May 12, 2021, 6:14 a.m. Humanist 35.10",Not FoundThe requested resource was not found on this server.,Virginia,,35.10,May 12, 2021,6:14 a.m.
-"May 12, 2021, 6:16 a.m. Humanist 35.11",Not FoundThe requested resource was not found on this server.,Virginia,,35.11,May 12, 2021,6:16 a.m.
-"May 13, 2021, 6:31 a.m. Humanist 35.12",Not FoundThe requested resource was not found on this server.,Virginia,,35.12,May 13, 2021,6:31 a.m.
-"May 13, 2021, 7:13 a.m. Humanist 35.13",Not FoundThe requested resource was not found on this server.,Virginia,,35.13,May 13, 2021,7:13 a.m.
-"May 14, 2021, 6:36 a.m. Humanist 35.14",Not FoundThe requested resource was not found on this server.,Virginia,,35.14,May 14, 2021,6:36 a.m.
-"May 14, 2021, 6:37 a.m. Humanist 35.15",Not FoundThe requested resource was not found on this server.,Virginia,,35.15,May 14, 2021,6:37 a.m.
-"May 14, 2021, 6:39 a.m. Humanist 35.16",Not FoundThe requested resource was not found on this server.,Virginia,,35.16,May 14, 2021,6:39 a.m.
-"May 15, 2021, 7:24 a.m. Humanist 35.17",Not FoundThe requested resource was not found on this server.,Virginia,,35.17,May 15, 2021,7:24 a.m.
-"May 15, 2021, 7:38 a.m. Humanist 35.18",Not FoundThe requested resource was not found on this server.,Virginia,,35.18,May 15, 2021,7:38 a.m.
-"May 17, 2021, 7:16 a.m. Humanist 35.19",Not FoundThe requested resource was not found on this server.,Virginia,,35.19,May 17, 2021,7:16 a.m.
-"May 18, 2021, 7 a.m. Humanist 35.20",Not FoundThe requested resource was not found on this server.,Virginia,,35.20,May 18, 2021,7 a.m.
-"May 18, 2021, 11:34 a.m. Humanist 35.21",Not FoundThe requested resource was not found on this server.,Virginia,,35.21,May 18, 2021,11:34 a.m.
-"May 18, 2021, 11:35 a.m. Humanist 35.22",Not FoundThe requested resource was not found on this server.,Virginia,,35.22,May 18, 2021,11:35 a.m.
-"May 19, 2021, 6:54 a.m. Humanist 35.23",Not FoundThe requested resource was not found on this server.,Virginia,,35.23,May 19, 2021,6:54 a.m.
-"May 19, 2021, 6:59 a.m. Humanist 35.24",Not FoundThe requested resource was not found on this server.,Virginia,,35.24,May 19, 2021,6:59 a.m.
-"May 19, 2021, 7:01 a.m. Humanist 35.25",Not FoundThe requested resource was not found on this server.,Virginia,,35.25,May 19, 2021,7:01 a.m.
-"May 19, 2021, 7:02 a.m. Humanist 35.26",Not FoundThe requested resource was not found on this server.,Virginia,,35.26,May 19, 2021,7:02 a.m.
-"May 20, 2021, 6:41 a.m. Humanist 35.27",Not FoundThe requested resource was not found on this server.,Virginia,,35.27,May 20, 2021,6:41 a.m.
-"May 20, 2021, 6:42 a.m. Humanist 35.28",Not FoundThe requested resource was not found on this server.,Virginia,,35.28,May 20, 2021,6:42 a.m.
-"May 20, 2021, 6:44 a.m. Humanist 35.29",Not FoundThe requested resource was not found on this server.,Virginia,,35.29,May 20, 2021,6:44 a.m.
-"May 20, 2021, 6:47 a.m. Humanist 35.30",Not FoundThe requested resource was not found on this server.,Virginia,,35.30,May 20, 2021,6:47 a.m.
-"May 20, 2021, 6:50 a.m. Humanist 35.31",Not FoundThe requested resource was not found on this server.,Virginia,,35.31,May 20, 2021,6:50 a.m.
-"May 21, 2021, 6:41 a.m. Humanist 35.32",Not FoundThe requested resource was not found on this server.,Virginia,,35.32,May 21, 2021,6:41 a.m.
-"May 21, 2021, 7:21 a.m. Humanist 35.33",Not FoundThe requested resource was not found on this server.,Virginia,,35.33,May 21, 2021,7:21 a.m.
-"May 22, 2021, 5:57 a.m. Humanist 35.34",Not FoundThe requested resource was not found on this server.,Virginia,,35.34,May 22, 2021,5:57 a.m.
-"May 22, 2021, 6 a.m. Humanist 35.35",Not FoundThe requested resource was not found on this server.,Virginia,,35.35,May 22, 2021,6 a.m.
-"May 22, 2021, 6:04 a.m. Humanist 35.36",Not FoundThe requested resource was not found on this server.,Virginia,,35.36,May 22, 2021,6:04 a.m.
-"May 24, 2021, 6:42 a.m. Humanist 35.37",Not FoundThe requested resource was not found on this server.,Virginia,,35.37,May 24, 2021,6:42 a.m.
-"May 24, 2021, 6:47 a.m. Humanist 35.38",Not FoundThe requested resource was not found on this server.,Virginia,,35.38,May 24, 2021,6:47 a.m.
-"May 25, 2021, 7:25 a.m. Humanist 35.39",Not FoundThe requested resource was not found on this server.,Virginia,,35.39,May 25, 2021,7:25 a.m.
-"May 25, 2021, 7:28 a.m. Humanist 35.40",Not FoundThe requested resource was not found on this server.,Virginia,,35.40,May 25, 2021,7:28 a.m.
-"May 25, 2021, 7:30 a.m. Humanist 35.41",Not FoundThe requested resource was not found on this server.,Virginia,,35.41,May 25, 2021,7:30 a.m.
-"May 25, 2021, 7:33 a.m. Humanist 35.42",Not FoundThe requested resource was not found on this server.,Virginia,,35.42,May 25, 2021,7:33 a.m.
-"May 26, 2021, 5:43 a.m. Humanist 35.43",Not FoundThe requested resource was not found on this server.,Virginia,,35.43,May 26, 2021,5:43 a.m.
-"May 26, 2021, 5:47 a.m. Humanist 35.44",Not FoundThe requested resource was not found on this server.,Virginia,,35.44,May 26, 2021,5:47 a.m.
-"May 27, 2021, 6:28 a.m. Humanist 35.45",Not FoundThe requested resource was not found on this server.,Virginia,,35.45,May 27, 2021,6:28 a.m.
-"May 27, 2021, 6:29 a.m. Humanist 35.46",Not FoundThe requested resource was not found on this server.,Virginia,,35.46,May 27, 2021,6:29 a.m.
-"May 28, 2021, 6:16 a.m. Humanist 35.47",Not FoundThe requested resource was not found on this server.,Virginia,,35.47,May 28, 2021,6:16 a.m.
-"May 28, 2021, 6:19 a.m. Humanist 35.48",Not FoundThe requested resource was not found on this server.,Virginia,,35.48,May 28, 2021,6:19 a.m.
-"May 28, 2021, 6:33 a.m. Humanist 35.49",Not FoundThe requested resource was not found on this server.,Virginia,,35.49,May 28, 2021,6:33 a.m.
-"May 29, 2021, 7:44 a.m. Humanist 35.50",Not FoundThe requested resource was not found on this server.,Virginia,,35.50,May 29, 2021,7:44 a.m.
-"May 29, 2021, 7:48 a.m. Humanist 35.51",Not FoundThe requested resource was not found on this server.,Virginia,,35.51,May 29, 2021,7:48 a.m.
-"May 29, 2021, 7:52 a.m. Humanist 35.52","403 Forbidden
+To: humanist@lists.digitalhumani"
+"May 7, 2021, 9:37 a.m. Humanist 35.1",Virginia,,35.1,May 7, 2021,9:37 a.m.,Not FoundThe requested resource was not found on this server.
+"May 7, 2021, 9:39 a.m. Humanist 35.2",Virginia,,35.2,May 7, 2021,9:39 a.m.,Not FoundThe requested resource was not found on this server.
+"May 7, 2021, 9:42 a.m. Humanist 35.3",Virginia,,35.3,May 7, 2021,9:42 a.m.,Not FoundThe requested resource was not found on this server.
+"May 8, 2021, 6:53 a.m. Humanist 35.4",Virginia,,35.4,May 8, 2021,6:53 a.m.,Not FoundThe requested resource was not found on this server.
+"May 8, 2021, 6:56 a.m. Humanist 35.5",Virginia,,35.5,May 8, 2021,6:56 a.m.,Not FoundThe requested resource was not found on this server.
+"May 8, 2021, 6:57 a.m. Humanist 35.6",Virginia,,35.6,May 8, 2021,6:57 a.m.,Not FoundThe requested resource was not found on this server.
+"May 9, 2021, 9:18 a.m. Humanist 35.7",Virginia,,35.7,May 9, 2021,9:18 a.m.,Not FoundThe requested resource was not found on this server.
+"May 9, 2021, 9:24 a.m. Humanist 35.8",Virginia,,35.8,May 9, 2021,9:24 a.m.,Not FoundThe requested resource was not found on this server.
+"May 11, 2021, 7:45 a.m. Humanist 35.9",Virginia,,35.9,May 11, 2021,7:45 a.m.,Not FoundThe requested resource was not found on this server.
+"May 12, 2021, 6:14 a.m. Humanist 35.10",Virginia,,35.10,May 12, 2021,6:14 a.m.,Not FoundThe requested resource was not found on this server.
+"May 12, 2021, 6:16 a.m. Humanist 35.11",Virginia,,35.11,May 12, 2021,6:16 a.m.,Not FoundThe requested resource was not found on this server.
+"May 13, 2021, 6:31 a.m. Humanist 35.12",Virginia,,35.12,May 13, 2021,6:31 a.m.,Not FoundThe requested resource was not found on this server.
+"May 13, 2021, 7:13 a.m. Humanist 35.13",Virginia,,35.13,May 13, 2021,7:13 a.m.,Not FoundThe requested resource was not found on this server.
+"May 14, 2021, 6:36 a.m. Humanist 35.14",Virginia,,35.14,May 14, 2021,6:36 a.m.,Not FoundThe requested resource was not found on this server.
+"May 14, 2021, 6:37 a.m. Humanist 35.15",Virginia,,35.15,May 14, 2021,6:37 a.m.,Not FoundThe requested resource was not found on this server.
+"May 14, 2021, 6:39 a.m. Humanist 35.16",Virginia,,35.16,May 14, 2021,6:39 a.m.,Not FoundThe requested resource was not found on this server.
+"May 15, 2021, 7:24 a.m. Humanist 35.17",Virginia,,35.17,May 15, 2021,7:24 a.m.,Not FoundThe requested resource was not found on this server.
+"May 15, 2021, 7:38 a.m. Humanist 35.18",Virginia,,35.18,May 15, 2021,7:38 a.m.,Not FoundThe requested resource was not found on this server.
+"May 17, 2021, 7:16 a.m. Humanist 35.19",Virginia,,35.19,May 17, 2021,7:16 a.m.,Not FoundThe requested resource was not found on this server.
+"May 18, 2021, 7 a.m. Humanist 35.20",Virginia,,35.20,May 18, 2021,7 a.m.,Not FoundThe requested resource was not found on this server.
+"May 18, 2021, 11:34 a.m. Humanist 35.21",Virginia,,35.21,May 18, 2021,11:34 a.m.,Not FoundThe requested resource was not found on this server.
+"May 18, 2021, 11:35 a.m. Humanist 35.22",Virginia,,35.22,May 18, 2021,11:35 a.m.,Not FoundThe requested resource was not found on this server.
+"May 19, 2021, 6:54 a.m. Humanist 35.23",Virginia,,35.23,May 19, 2021,6:54 a.m.,Not FoundThe requested resource was not found on this server.
+"May 19, 2021, 6:59 a.m. Humanist 35.24",Virginia,,35.24,May 19, 2021,6:59 a.m.,Not FoundThe requested resource was not found on this server.
+"May 19, 2021, 7:01 a.m. Humanist 35.25",Virginia,,35.25,May 19, 2021,7:01 a.m.,Not FoundThe requested resource was not found on this server.
+"May 19, 2021, 7:02 a.m. Humanist 35.26",Virginia,,35.26,May 19, 2021,7:02 a.m.,Not FoundThe requested resource was not found on this server.
+"May 20, 2021, 6:41 a.m. Humanist 35.27",Virginia,,35.27,May 20, 2021,6:41 a.m.,Not FoundThe requested resource was not found on this server.
+"May 20, 2021, 6:42 a.m. Humanist 35.28",Virginia,,35.28,May 20, 2021,6:42 a.m.,Not FoundThe requested resource was not found on this server.
+"May 20, 2021, 6:44 a.m. Humanist 35.29",Virginia,,35.29,May 20, 2021,6:44 a.m.,Not FoundThe requested resource was not found on this server.
+"May 20, 2021, 6:47 a.m. Humanist 35.30",Virginia,,35.30,May 20, 2021,6:47 a.m.,Not FoundThe requested resource was not found on this server.
+"May 20, 2021, 6:50 a.m. Humanist 35.31",Virginia,,35.31,May 20, 2021,6:50 a.m.,Not FoundThe requested resource was not found on this server.
+"May 21, 2021, 6:41 a.m. Humanist 35.32",Virginia,,35.32,May 21, 2021,6:41 a.m.,Not FoundThe requested resource was not found on this server.
+"May 21, 2021, 7:21 a.m. Humanist 35.33",Virginia,,35.33,May 21, 2021,7:21 a.m.,Not FoundThe requested resource was not found on this server.
+"May 22, 2021, 5:57 a.m. Humanist 35.34",Virginia,,35.34,May 22, 2021,5:57 a.m.,Not FoundThe requested resource was not found on this server.
+"May 22, 2021, 6 a.m. Humanist 35.35",Virginia,,35.35,May 22, 2021,6 a.m.,Not FoundThe requested resource was not found on this server.
+"May 22, 2021, 6:04 a.m. Humanist 35.36",Virginia,,35.36,May 22, 2021,6:04 a.m.,Not FoundThe requested resource was not found on this server.
+"May 24, 2021, 6:42 a.m. Humanist 35.37",Virginia,,35.37,May 24, 2021,6:42 a.m.,Not FoundThe requested resource was not found on this server.
+"May 24, 2021, 6:47 a.m. Humanist 35.38",Virginia,,35.38,May 24, 2021,6:47 a.m.,Not FoundThe requested resource was not found on this server.
+"May 25, 2021, 7:25 a.m. Humanist 35.39",Virginia,,35.39,May 25, 2021,7:25 a.m.,Not FoundThe requested resource was not found on this server.
+"May 25, 2021, 7:28 a.m. Humanist 35.40",Virginia,,35.40,May 25, 2021,7:28 a.m.,Not FoundThe requested resource was not found on this server.
+"May 25, 2021, 7:30 a.m. Humanist 35.41",Virginia,,35.41,May 25, 2021,7:30 a.m.,Not FoundThe requested resource was not found on this server.
+"May 25, 2021, 7:33 a.m. Humanist 35.42",Virginia,,35.42,May 25, 2021,7:33 a.m.,Not FoundThe requested resource was not found on this server.
+"May 26, 2021, 5:43 a.m. Humanist 35.43",Virginia,,35.43,May 26, 2021,5:43 a.m.,Not FoundThe requested resource was not found on this server.
+"May 26, 2021, 5:47 a.m. Humanist 35.44",Virginia,,35.44,May 26, 2021,5:47 a.m.,Not FoundThe requested resource was not found on this server.
+"May 27, 2021, 6:28 a.m. Humanist 35.45",Virginia,,35.45,May 27, 2021,6:28 a.m.,Not FoundThe requested resource was not found on this server.
+"May 27, 2021, 6:29 a.m. Humanist 35.46",Virginia,,35.46,May 27, 2021,6:29 a.m.,Not FoundThe requested resource was not found on this server.
+"May 28, 2021, 6:16 a.m. Humanist 35.47",Virginia,,35.47,May 28, 2021,6:16 a.m.,Not FoundThe requested resource was not found on this server.
+"May 28, 2021, 6:19 a.m. Humanist 35.48",Virginia,,35.48,May 28, 2021,6:19 a.m.,Not FoundThe requested resource was not found on this server.
+"May 28, 2021, 6:33 a.m. Humanist 35.49",Virginia,,35.49,May 28, 2021,6:33 a.m.,Not FoundThe requested resource was not found on this server.
+"May 29, 2021, 7:44 a.m. Humanist 35.50",Virginia,,35.50,May 29, 2021,7:44 a.m.,Not FoundThe requested resource was not found on this server.
+"May 29, 2021, 7:48 a.m. Humanist 35.51",Virginia,,35.51,May 29, 2021,7:48 a.m.,Not FoundThe requested resource was not found on this server.
+"May 29, 2021, 7:52 a.m. Humanist 35.52",Virginia,,35.52,May 29, 2021,7:52 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.52,May 29, 2021,7:52 a.m.
-"May 30, 2021, 6:52 a.m. Humanist 35.54","403 Forbidden
+"
+"May 30, 2021, 6:52 a.m. Humanist 35.54",Virginia,,35.54,May 30, 2021,6:52 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.54,May 30, 2021,6:52 a.m.
-"May 29, 2021, 12:47 p.m. Humanist 35.54","403 Forbidden
+"
+"May 29, 2021, 12:47 p.m. Humanist 35.54",Virginia,,35.54,May 29, 2021,12:47 p.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.54,May 29, 2021,12:47 p.m.
-"May 30, 2021, 6:53 a.m. Humanist 35.55","403 Forbidden
+"
+"May 30, 2021, 6:53 a.m. Humanist 35.55",Virginia,,35.55,May 30, 2021,6:53 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.55,May 30, 2021,6:53 a.m.
-"May 31, 2021, 7:43 a.m. Humanist 35.56","403 Forbidden
+"
+"May 31, 2021, 7:43 a.m. Humanist 35.56",Virginia,,35.56,May 31, 2021,7:43 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.56,May 31, 2021,7:43 a.m.
-"June 1, 2021, 6:03 a.m. Humanist 35.57","403 Forbidden
+"
+"June 1, 2021, 6:03 a.m. Humanist 35.57",Virginia,,35.57,June 1, 2021,6:03 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.57,June 1, 2021,6:03 a.m.
-"June 1, 2021, 6:07 a.m. Humanist 35.58","403 Forbidden
+"
+"June 1, 2021, 6:07 a.m. Humanist 35.58",Virginia,,35.58,June 1, 2021,6:07 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.58,June 1, 2021,6:07 a.m.
-"June 1, 2021, 6:10 a.m. Humanist 35.59","403 Forbidden
+"
+"June 1, 2021, 6:10 a.m. Humanist 35.59",Virginia,,35.59,June 1, 2021,6:10 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.59,June 1, 2021,6:10 a.m.
-"June 2, 2021, 7:29 a.m. Humanist 35.60","403 Forbidden
+"
+"June 2, 2021, 7:29 a.m. Humanist 35.60",Virginia,,35.60,June 2, 2021,7:29 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.60,June 2, 2021,7:29 a.m.
-"June 2, 2021, 7:31 a.m. Humanist 35.61","403 Forbidden
+"
+"June 2, 2021, 7:31 a.m. Humanist 35.61",Virginia,,35.61,June 2, 2021,7:31 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.61,June 2, 2021,7:31 a.m.
-"June 3, 2021, 5:58 a.m. Humanist 35.62","403 Forbidden
+"
+"June 3, 2021, 5:58 a.m. Humanist 35.62",Virginia,,35.62,June 3, 2021,5:58 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.62,June 3, 2021,5:58 a.m.
-"June 3, 2021, 6 a.m. Humanist 35.63","403 Forbidden
+"
+"June 3, 2021, 6 a.m. Humanist 35.63",Virginia,,35.63,June 3, 2021,6 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.63,June 3, 2021,6 a.m.
-"June 3, 2021, 9:56 a.m. Humanist 35.64","403 Forbidden
+"
+"June 3, 2021, 9:56 a.m. Humanist 35.64",Virginia,,35.64,June 3, 2021,9:56 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.64,June 3, 2021,9:56 a.m.
-"June 4, 2021, 7:41 a.m. Humanist 35.65","403 Forbidden
+"
+"June 4, 2021, 7:41 a.m. Humanist 35.65",Virginia,,35.65,June 4, 2021,7:41 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.65,June 4, 2021,7:41 a.m.
-"June 4, 2021, 7:43 a.m. Humanist 35.66","403 Forbidden
+"
+"June 4, 2021, 7:43 a.m. Humanist 35.66",Virginia,,35.66,June 4, 2021,7:43 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.66,June 4, 2021,7:43 a.m.
-"June 4, 2021, 10:53 a.m. Humanist 35.67","403 Forbidden
+"
+"June 4, 2021, 10:53 a.m. Humanist 35.67",Virginia,,35.67,June 4, 2021,10:53 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.67,June 4, 2021,10:53 a.m.
-"June 5, 2021, 6:09 a.m. Humanist 35.68","403 Forbidden
+"
+"June 5, 2021, 6:09 a.m. Humanist 35.68",Virginia,,35.68,June 5, 2021,6:09 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.68,June 5, 2021,6:09 a.m.
-"June 6, 2021, 8:58 a.m. Humanist 35.69","403 Forbidden
+"
+"June 6, 2021, 8:58 a.m. Humanist 35.69",Virginia,,35.69,June 6, 2021,8:58 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.69,June 6, 2021,8:58 a.m.
-"June 8, 2021, 6:31 a.m. Humanist 35.70","403 Forbidden
+"
+"June 8, 2021, 6:31 a.m. Humanist 35.70",Virginia,,35.70,June 8, 2021,6:31 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.70,June 8, 2021,6:31 a.m.
-"June 8, 2021, 6:33 a.m. Humanist 35.71","403 Forbidden
+"
+"June 8, 2021, 6:33 a.m. Humanist 35.71",Virginia,,35.71,June 8, 2021,6:33 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.71,June 8, 2021,6:33 a.m.
-"June 9, 2021, 7:11 a.m. Humanist 35.72","403 Forbidden
+"
+"June 9, 2021, 7:11 a.m. Humanist 35.72",Virginia,,35.72,June 9, 2021,7:11 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.72,June 9, 2021,7:11 a.m.
-"June 9, 2021, 7:13 a.m. Humanist 35.73","403 Forbidden
+"
+"June 9, 2021, 7:13 a.m. Humanist 35.73",Virginia,,35.73,June 9, 2021,7:13 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.73,June 9, 2021,7:13 a.m.
-"June 9, 2021, 7:16 a.m. Humanist 35.74","403 Forbidden
+"
+"June 9, 2021, 7:16 a.m. Humanist 35.74",Virginia,,35.74,June 9, 2021,7:16 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.74,June 9, 2021,7:16 a.m.
-"June 10, 2021, 5:45 a.m. Humanist 35.75","403 Forbidden
+"
+"June 10, 2021, 5:45 a.m. Humanist 35.75",Virginia,,35.75,June 10, 2021,5:45 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.75,June 10, 2021,5:45 a.m.
-"June 10, 2021, 5:49 a.m. Humanist 35.76","403 Forbidden
+"
+"June 10, 2021, 5:49 a.m. Humanist 35.76",Virginia,,35.76,June 10, 2021,5:49 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.76,June 10, 2021,5:49 a.m.
-"June 10, 2021, 5:54 a.m. Humanist 35.77","403 Forbidden
+"
+"June 10, 2021, 5:54 a.m. Humanist 35.77",Virginia,,35.77,June 10, 2021,5:54 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.77,June 10, 2021,5:54 a.m.
-"June 10, 2021, 5:58 a.m. Humanist 35.78","403 Forbidden
+"
+"June 10, 2021, 5:58 a.m. Humanist 35.78",Virginia,,35.78,June 10, 2021,5:58 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.78,June 10, 2021,5:58 a.m.
-"June 11, 2021, 5:45 a.m. Humanist 35.79","403 Forbidden
+"
+"June 11, 2021, 5:45 a.m. Humanist 35.79",Virginia,,35.79,June 11, 2021,5:45 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.79,June 11, 2021,5:45 a.m.
-"June 11, 2021, 5:48 a.m. Humanist 35.80","403 Forbidden
+"
+"June 11, 2021, 5:48 a.m. Humanist 35.80",Virginia,,35.80,June 11, 2021,5:48 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.80,June 11, 2021,5:48 a.m.
-"June 11, 2021, 5:57 a.m. Humanist 35.81","403 Forbidden
+"
+"June 11, 2021, 5:57 a.m. Humanist 35.81",Virginia,,35.81,June 11, 2021,5:57 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.81,June 11, 2021,5:57 a.m.
-"June 12, 2021, 6:55 a.m. Humanist 35.82","403 Forbidden
+"
+"June 12, 2021, 6:55 a.m. Humanist 35.82",Virginia,,35.82,June 12, 2021,6:55 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.82,June 12, 2021,6:55 a.m.
-"June 12, 2021, 7:02 a.m. Humanist 35.83","403 Forbidden
+"
+"June 12, 2021, 7:02 a.m. Humanist 35.83",Virginia,,35.83,June 12, 2021,7:02 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.83,June 12, 2021,7:02 a.m.
-"June 12, 2021, 7:08 a.m. Humanist 35.84","403 Forbidden
+"
+"June 12, 2021, 7:08 a.m. Humanist 35.84",Virginia,,35.84,June 12, 2021,7:08 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.84,June 12, 2021,7:08 a.m.
-"June 12, 2021, 7:10 a.m. Humanist 35.85","403 Forbidden
+"
+"June 12, 2021, 7:10 a.m. Humanist 35.85",Virginia,,35.85,June 12, 2021,7:10 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.85,June 12, 2021,7:10 a.m.
-"June 14, 2021, 8:42 a.m. Humanist 35.86","403 Forbidden
+"
+"June 14, 2021, 8:42 a.m. Humanist 35.86",Virginia,,35.86,June 14, 2021,8:42 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.86,June 14, 2021,8:42 a.m.
-"June 15, 2021, 6:07 a.m. Humanist 35.87","403 Forbidden
+"
+"June 15, 2021, 6:07 a.m. Humanist 35.87",Virginia,,35.87,June 15, 2021,6:07 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.87,June 15, 2021,6:07 a.m.
-"June 16, 2021, 6:45 a.m. Humanist 35.88","403 Forbidden
+"
+"June 16, 2021, 6:45 a.m. Humanist 35.88",Virginia,,35.88,June 16, 2021,6:45 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.88,June 16, 2021,6:45 a.m.
-"June 17, 2021, 6:32 a.m. Humanist 35.89","403 Forbidden
+"
+"June 17, 2021, 6:32 a.m. Humanist 35.89",Virginia,,35.89,June 17, 2021,6:32 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.89,June 17, 2021,6:32 a.m.
-"June 17, 2021, 6:33 a.m. Humanist 35.90","403 Forbidden
+"
+"June 17, 2021, 6:33 a.m. Humanist 35.90",Virginia,,35.90,June 17, 2021,6:33 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.90,June 17, 2021,6:33 a.m.
-"June 17, 2021, 6:34 a.m. Humanist 35.91","403 Forbidden
+"
+"June 17, 2021, 6:34 a.m. Humanist 35.91",Virginia,,35.91,June 17, 2021,6:34 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.91,June 17, 2021,6:34 a.m.
-"June 18, 2021, 6:30 a.m. Humanist 35.92","403 Forbidden
+"
+"June 18, 2021, 6:30 a.m. Humanist 35.92",Virginia,,35.92,June 18, 2021,6:30 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.92,June 18, 2021,6:30 a.m.
-"June 18, 2021, 6:33 a.m. Humanist 35.93","403 Forbidden
+"
+"June 18, 2021, 6:33 a.m. Humanist 35.93",Virginia,,35.93,June 18, 2021,6:33 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.93,June 18, 2021,6:33 a.m.
-"June 19, 2021, 10:44 a.m. Humanist 35.94","403 Forbidden
+"
+"June 19, 2021, 10:44 a.m. Humanist 35.94",Virginia,,35.94,June 19, 2021,10:44 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.94,June 19, 2021,10:44 a.m.
-"June 20, 2021, 7:52 a.m. Humanist 35.95","403 Forbidden
+"
+"June 20, 2021, 7:52 a.m. Humanist 35.95",Virginia,,35.95,June 20, 2021,7:52 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.95,June 20, 2021,7:52 a.m.
-"June 21, 2021, 7:23 a.m. Humanist 35.96","403 Forbidden
+"
+"June 21, 2021, 7:23 a.m. Humanist 35.96",Virginia,,35.96,June 21, 2021,7:23 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.96,June 21, 2021,7:23 a.m.
-"June 21, 2021, 7:26 a.m. Humanist 35.97","403 Forbidden
+"
+"June 21, 2021, 7:26 a.m. Humanist 35.97",Virginia,,35.97,June 21, 2021,7:26 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.97,June 21, 2021,7:26 a.m.
-"June 21, 2021, 7:28 a.m. Humanist 35.98","403 Forbidden
+"
+"June 21, 2021, 7:28 a.m. Humanist 35.98",Virginia,,35.98,June 21, 2021,7:28 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.98,June 21, 2021,7:28 a.m.
-"June 22, 2021, 5:56 a.m. Humanist 35.99","403 Forbidden
+"
+"June 22, 2021, 5:56 a.m. Humanist 35.99",Virginia,,35.99,June 22, 2021,5:56 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.99,June 22, 2021,5:56 a.m.
-"June 22, 2021, 5:59 a.m. Humanist 35.100","403 Forbidden
+"
+"June 22, 2021, 5:59 a.m. Humanist 35.100",Virginia,,35.100,June 22, 2021,5:59 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.100,June 22, 2021,5:59 a.m.
-"June 22, 2021, 6:01 a.m. Humanist 35.101","403 Forbidden
+"
+"June 22, 2021, 6:01 a.m. Humanist 35.101",Virginia,,35.101,June 22, 2021,6:01 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.101,June 22, 2021,6:01 a.m.
-"June 23, 2021, 6:22 a.m. Humanist 35.102","403 Forbidden
+"
+"June 23, 2021, 6:22 a.m. Humanist 35.102",Virginia,,35.102,June 23, 2021,6:22 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.102,June 23, 2021,6:22 a.m.
-"June 23, 2021, 6:24 a.m. Humanist 35.103","403 Forbidden
+"
+"June 23, 2021, 6:24 a.m. Humanist 35.103",Virginia,,35.103,June 23, 2021,6:24 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.103,June 23, 2021,6:24 a.m.
-"June 24, 2021, 8:20 a.m. Humanist 35.104","403 Forbidden
+"
+"June 24, 2021, 8:20 a.m. Humanist 35.104",Virginia,,35.104,June 24, 2021,8:20 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.104,June 24, 2021,8:20 a.m.
-"June 24, 2021, 8:22 a.m. Humanist 35.105","403 Forbidden
+"
+"June 24, 2021, 8:22 a.m. Humanist 35.105",Virginia,,35.105,June 24, 2021,8:22 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.105,June 24, 2021,8:22 a.m.
-"June 24, 2021, 8:24 a.m. Humanist 35.106","403 Forbidden
+"
+"June 24, 2021, 8:24 a.m. Humanist 35.106",Virginia,,35.106,June 24, 2021,8:24 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.106,June 24, 2021,8:24 a.m.
-"June 24, 2021, 8:29 a.m. Humanist 35.107","403 Forbidden
+"
+"June 24, 2021, 8:29 a.m. Humanist 35.107",Virginia,,35.107,June 24, 2021,8:29 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.107,June 24, 2021,8:29 a.m.
-"June 24, 2021, 8:30 a.m. Humanist 35.108","403 Forbidden
+"
+"June 24, 2021, 8:30 a.m. Humanist 35.108",Virginia,,35.108,June 24, 2021,8:30 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.108,June 24, 2021,8:30 a.m.
-"June 25, 2021, 6:39 a.m. Humanist 35.109","403 Forbidden
+"
+"June 25, 2021, 6:39 a.m. Humanist 35.109",Virginia,,35.109,June 25, 2021,6:39 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.109,June 25, 2021,6:39 a.m.
-"June 26, 2021, 8:30 a.m. Humanist 35.110","403 Forbidden
+"
+"June 26, 2021, 8:30 a.m. Humanist 35.110",Virginia,,35.110,June 26, 2021,8:30 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.110,June 26, 2021,8:30 a.m.
-"June 26, 2021, 8:31 a.m. Humanist 35.111","403 Forbidden
+"
+"June 26, 2021, 8:31 a.m. Humanist 35.111",Virginia,,35.111,June 26, 2021,8:31 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.111,June 26, 2021,8:31 a.m.
-"June 26, 2021, 10:37 a.m. Humanist 35.112","403 Forbidden
+"
+"June 26, 2021, 10:37 a.m. Humanist 35.112",Virginia,,35.112,June 26, 2021,10:37 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.112,June 26, 2021,10:37 a.m.
-"June 28, 2021, 6:08 a.m. Humanist 35.113","403 Forbidden
+"
+"June 28, 2021, 6:08 a.m. Humanist 35.113",Virginia,,35.113,June 28, 2021,6:08 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.113,June 28, 2021,6:08 a.m.
-"June 29, 2021, 9:40 a.m. Humanist 35.114","403 Forbidden
+"
+"June 29, 2021, 9:40 a.m. Humanist 35.114",Virginia,,35.114,June 29, 2021,9:40 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.114,June 29, 2021,9:40 a.m.
-"June 30, 2021, 7:11 a.m. Humanist 35.115","403 Forbidden
+"
+"June 30, 2021, 7:11 a.m. Humanist 35.115",Virginia,,35.115,June 30, 2021,7:11 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.115,June 30, 2021,7:11 a.m.
-"June 30, 2021, 7:15 a.m. Humanist 35.116","403 Forbidden
+"
+"June 30, 2021, 7:15 a.m. Humanist 35.116",Virginia,,35.116,June 30, 2021,7:15 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.116,June 30, 2021,7:15 a.m.
-"July 1, 2021, 6:39 a.m. Humanist 35.117","403 Forbidden
+"
+"July 1, 2021, 6:39 a.m. Humanist 35.117",Virginia,,35.117,July 1, 2021,6:39 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.117,July 1, 2021,6:39 a.m.
-"July 1, 2021, 6:42 a.m. Humanist 35.118","403 Forbidden
+"
+"July 1, 2021, 6:42 a.m. Humanist 35.118",Virginia,,35.118,July 1, 2021,6:42 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.118,July 1, 2021,6:42 a.m.
-"July 1, 2021, 6:48 a.m. Humanist 35.119","403 Forbidden
+"
+"July 1, 2021, 6:48 a.m. Humanist 35.119",Virginia,,35.119,July 1, 2021,6:48 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.119,July 1, 2021,6:48 a.m.
-"July 2, 2021, 8:01 a.m. Humanist 35.120","403 Forbidden
+"
+"July 2, 2021, 8:01 a.m. Humanist 35.120",Virginia,,35.120,July 2, 2021,8:01 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.120,July 2, 2021,8:01 a.m.
-"July 2, 2021, 8:09 a.m. Humanist 35.121","403 Forbidden
+"
+"July 2, 2021, 8:09 a.m. Humanist 35.121",Virginia,,35.121,July 2, 2021,8:09 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.121,July 2, 2021,8:09 a.m.
-"July 2, 2021, 8:13 a.m. Humanist 35.122","403 Forbidden
+"
+"July 2, 2021, 8:13 a.m. Humanist 35.122",Virginia,,35.122,July 2, 2021,8:13 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.122,July 2, 2021,8:13 a.m.
-"July 3, 2021, 6:27 a.m. Humanist 35.123","403 Forbidden
+"
+"July 3, 2021, 6:27 a.m. Humanist 35.123",Virginia,,35.123,July 3, 2021,6:27 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.123,July 3, 2021,6:27 a.m.
-"July 3, 2021, 6:37 a.m. Humanist 35.124","403 Forbidden
+"
+"July 3, 2021, 6:37 a.m. Humanist 35.124",Virginia,,35.124,July 3, 2021,6:37 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.124,July 3, 2021,6:37 a.m.
-"July 5, 2021, 6:54 a.m. Humanist 35.125","403 Forbidden
+"
+"July 5, 2021, 6:54 a.m. Humanist 35.125",Virginia,,35.125,July 5, 2021,6:54 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.125,July 5, 2021,6:54 a.m.
-"July 5, 2021, 8:58 a.m. Humanist 35.126","403 Forbidden
+"
+"July 5, 2021, 8:58 a.m. Humanist 35.126",Virginia,,35.126,July 5, 2021,8:58 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.126,July 5, 2021,8:58 a.m.
-"July 6, 2021, 6:58 a.m. Humanist 35.127","403 Forbidden
+"
+"July 6, 2021, 6:58 a.m. Humanist 35.127",Virginia,,35.127,July 6, 2021,6:58 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.127,July 6, 2021,6:58 a.m.
-"July 7, 2021, 7:24 a.m. Humanist 35.128","403 Forbidden
+"
+"July 7, 2021, 7:24 a.m. Humanist 35.128",Virginia,,35.128,July 7, 2021,7:24 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.128,July 7, 2021,7:24 a.m.
-"July 7, 2021, 7:31 a.m. Humanist 35.129","403 Forbidden
+"
+"July 7, 2021, 7:31 a.m. Humanist 35.129",Virginia,,35.129,July 7, 2021,7:31 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.129,July 7, 2021,7:31 a.m.
-"July 8, 2021, 8:29 a.m. Humanist 35.130","403 Forbidden
+"
+"July 8, 2021, 8:29 a.m. Humanist 35.130",Virginia,,35.130,July 8, 2021,8:29 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.130,July 8, 2021,8:29 a.m.
-"July 11, 2021, 8:17 a.m. Humanist 35.131","403 Forbidden
+"
+"July 11, 2021, 8:17 a.m. Humanist 35.131",Virginia,,35.131,July 11, 2021,8:17 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.131,July 11, 2021,8:17 a.m.
-"July 11, 2021, 8:24 a.m. Humanist 35.132","403 Forbidden
+"
+"July 11, 2021, 8:24 a.m. Humanist 35.132",Virginia,,35.132,July 11, 2021,8:24 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.132,July 11, 2021,8:24 a.m.
-"July 11, 2021, 8:29 a.m. Humanist 35.133","403 Forbidden
+"
+"July 11, 2021, 8:29 a.m. Humanist 35.133",Virginia,,35.133,July 11, 2021,8:29 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.133,July 11, 2021,8:29 a.m.
-"July 12, 2021, 9:12 a.m. Humanist 35.134","403 Forbidden
+"
+"July 12, 2021, 9:12 a.m. Humanist 35.134",Virginia,,35.134,July 12, 2021,9:12 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.134,July 12, 2021,9:12 a.m.
-"July 13, 2021, 8:19 a.m. Humanist 35.135","403 Forbidden
+"
+"July 13, 2021, 8:19 a.m. Humanist 35.135",Virginia,,35.135,July 13, 2021,8:19 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.135,July 13, 2021,8:19 a.m.
-"July 13, 2021, 8:20 a.m. Humanist 35.136","403 Forbidden
+"
+"July 13, 2021, 8:20 a.m. Humanist 35.136",Virginia,,35.136,July 13, 2021,8:20 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.136,July 13, 2021,8:20 a.m.
-"July 14, 2021, 6:59 a.m. Humanist 35.137","403 Forbidden
+"
+"July 14, 2021, 6:59 a.m. Humanist 35.137",Virginia,,35.137,July 14, 2021,6:59 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.137,July 14, 2021,6:59 a.m.
-"July 14, 2021, 7:01 a.m. Humanist 35.138","403 Forbidden
+"
+"July 14, 2021, 7:01 a.m. Humanist 35.138",Virginia,,35.138,July 14, 2021,7:01 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.138,July 14, 2021,7:01 a.m.
-"July 14, 2021, 7:11 a.m. Humanist 35.139","403 Forbidden
+"
+"July 14, 2021, 7:11 a.m. Humanist 35.139",Virginia,,35.139,July 14, 2021,7:11 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.139,July 14, 2021,7:11 a.m.
-"July 15, 2021, 10 a.m. Humanist 35.140","403 Forbidden
+"
+"July 15, 2021, 10 a.m. Humanist 35.140",Virginia,,35.140,July 15, 2021,10 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.140,July 15, 2021,10 a.m.
-"July 15, 2021, 10:05 a.m. Humanist 35.141","403 Forbidden
+"
+"July 15, 2021, 10:05 a.m. Humanist 35.141",Virginia,,35.141,July 15, 2021,10:05 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.141,July 15, 2021,10:05 a.m.
-"July 15, 2021, 10:31 a.m. Humanist 35.142","403 Forbidden
+"
+"July 15, 2021, 10:31 a.m. Humanist 35.142",Virginia,,35.142,July 15, 2021,10:31 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.142,July 15, 2021,10:31 a.m.
-"July 16, 2021, 7:52 a.m. Humanist 35.143","403 Forbidden
+"
+"July 16, 2021, 7:52 a.m. Humanist 35.143",Virginia,,35.143,July 16, 2021,7:52 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.143,July 16, 2021,7:52 a.m.
-"July 16, 2021, 7:54 a.m. Humanist 35.144","403 Forbidden
+"
+"July 16, 2021, 7:54 a.m. Humanist 35.144",Virginia,,35.144,July 16, 2021,7:54 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.144,July 16, 2021,7:54 a.m.
-"July 16, 2021, 7:56 a.m. Humanist 35.145","403 Forbidden
+"
+"July 16, 2021, 7:56 a.m. Humanist 35.145",Virginia,,35.145,July 16, 2021,7:56 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.145,July 16, 2021,7:56 a.m.
-"July 17, 2021, 6:36 a.m. Humanist 35.146","403 Forbidden
+"
+"July 17, 2021, 6:36 a.m. Humanist 35.146",Virginia,,35.146,July 17, 2021,6:36 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.146,July 17, 2021,6:36 a.m.
-"July 17, 2021, 6:41 a.m. Humanist 35.147","403 Forbidden
+"
+"July 17, 2021, 6:41 a.m. Humanist 35.147",Virginia,,35.147,July 17, 2021,6:41 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.147,July 17, 2021,6:41 a.m.
-"July 18, 2021, 8:10 a.m. Humanist 35.148","403 Forbidden
+"
+"July 18, 2021, 8:10 a.m. Humanist 35.148",Virginia,,35.148,July 18, 2021,8:10 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.148,July 18, 2021,8:10 a.m.
-"July 19, 2021, 7:13 a.m. Humanist 35.149","403 Forbidden
+"
+"July 19, 2021, 7:13 a.m. Humanist 35.149",Virginia,,35.149,July 19, 2021,7:13 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.149,July 19, 2021,7:13 a.m.
-"July 20, 2021, 7:52 a.m. Humanist 35.150","403 Forbidden
+"
+"July 20, 2021, 7:52 a.m. Humanist 35.150",Virginia,,35.150,July 20, 2021,7:52 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.150,July 20, 2021,7:52 a.m.
-"July 20, 2021, 7:53 a.m. Humanist 35.151","403 Forbidden
+"
+"July 20, 2021, 7:53 a.m. Humanist 35.151",Virginia,,35.151,July 20, 2021,7:53 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.151,July 20, 2021,7:53 a.m.
-"July 21, 2021, 6:24 a.m. Humanist 35.152","403 Forbidden
+"
+"July 21, 2021, 6:24 a.m. Humanist 35.152",Virginia,,35.152,July 21, 2021,6:24 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.152,July 21, 2021,6:24 a.m.
-"July 21, 2021, 6:25 a.m. Humanist 35.153","403 Forbidden
+"
+"July 21, 2021, 6:25 a.m. Humanist 35.153",Virginia,,35.153,July 21, 2021,6:25 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.153,July 21, 2021,6:25 a.m.
-"July 22, 2021, 6:56 a.m. Humanist 35.154","403 Forbidden
+"
+"July 22, 2021, 6:56 a.m. Humanist 35.154",Virginia,,35.154,July 22, 2021,6:56 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.154,July 22, 2021,6:56 a.m.
-"July 22, 2021, 6:57 a.m. Humanist 35.155","403 Forbidden
+"
+"July 22, 2021, 6:57 a.m. Humanist 35.155",Virginia,,35.155,July 22, 2021,6:57 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.155,July 22, 2021,6:57 a.m.
-"July 22, 2021, 6:58 a.m. Humanist 35.156","403 Forbidden
+"
+"July 22, 2021, 6:58 a.m. Humanist 35.156",Virginia,,35.156,July 22, 2021,6:58 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.156,July 22, 2021,6:58 a.m.
-"July 23, 2021, 5:56 a.m. Humanist 35.157","403 Forbidden
+"
+"July 23, 2021, 5:56 a.m. Humanist 35.157",Virginia,,35.157,July 23, 2021,5:56 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.157,July 23, 2021,5:56 a.m.
-"July 23, 2021, 5:57 a.m. Humanist 35.158","403 Forbidden
+"
+"July 23, 2021, 5:57 a.m. Humanist 35.158",Virginia,,35.158,July 23, 2021,5:57 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.158,July 23, 2021,5:57 a.m.
-"July 23, 2021, 6 a.m. Humanist 35.159","403 Forbidden
+"
+"July 23, 2021, 6 a.m. Humanist 35.159",Virginia,,35.159,July 23, 2021,6 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.159,July 23, 2021,6 a.m.
-"July 23, 2021, 6:03 a.m. Humanist 35.160","403 Forbidden
+"
+"July 23, 2021, 6:03 a.m. Humanist 35.160",Virginia,,35.160,July 23, 2021,6:03 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.160,July 23, 2021,6:03 a.m.
-"July 24, 2021, 8:07 a.m. Humanist 35.161","403 Forbidden
+"
+"July 24, 2021, 8:07 a.m. Humanist 35.161",Virginia,,35.161,July 24, 2021,8:07 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.161,July 24, 2021,8:07 a.m.
-"July 25, 2021, 6:57 a.m. Humanist 35.162","403 Forbidden
+"
+"July 25, 2021, 6:57 a.m. Humanist 35.162",Virginia,,35.162,July 25, 2021,6:57 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.162,July 25, 2021,6:57 a.m.
-"July 28, 2021, 6:59 a.m. Humanist 35.163","403 Forbidden
+"
+"July 28, 2021, 6:59 a.m. Humanist 35.163",Virginia,,35.163,July 28, 2021,6:59 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.163,July 28, 2021,6:59 a.m.
-"July 28, 2021, 7:01 a.m. Humanist 35.164","403 Forbidden
+"
+"July 28, 2021, 7:01 a.m. Humanist 35.164",Virginia,,35.164,July 28, 2021,7:01 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.164,July 28, 2021,7:01 a.m.
-"July 29, 2021, 8:21 a.m. Humanist 35.165","403 Forbidden
+"
+"July 29, 2021, 8:21 a.m. Humanist 35.165",Virginia,,35.165,July 29, 2021,8:21 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.165,July 29, 2021,8:21 a.m.
-"July 29, 2021, 8:23 a.m. Humanist 35.166","403 Forbidden
+"
+"July 29, 2021, 8:23 a.m. Humanist 35.166",Virginia,,35.166,July 29, 2021,8:23 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.166,July 29, 2021,8:23 a.m.
-"July 29, 2021, 8:27 a.m. Humanist 35.167","403 Forbidden
+"
+"July 29, 2021, 8:27 a.m. Humanist 35.167",Virginia,,35.167,July 29, 2021,8:27 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.167,July 29, 2021,8:27 a.m.
-"July 30, 2021, 7:03 a.m. Humanist 35.168","403 Forbidden
+"
+"July 30, 2021, 7:03 a.m. Humanist 35.168",Virginia,,35.168,July 30, 2021,7:03 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.168,July 30, 2021,7:03 a.m.
-"July 30, 2021, 7:05 a.m. Humanist 35.169","403 Forbidden
+"
+"July 30, 2021, 7:05 a.m. Humanist 35.169",Virginia,,35.169,July 30, 2021,7:05 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.169,July 30, 2021,7:05 a.m.
-"July 31, 2021, 7:30 a.m. Humanist 35.170","403 Forbidden
+"
+"July 31, 2021, 7:30 a.m. Humanist 35.170",Virginia,,35.170,July 31, 2021,7:30 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.170,July 31, 2021,7:30 a.m.
-"Aug. 4, 2021, 11:52 a.m. Humanist 35.171","403 Forbidden
+"
+"Aug. 4, 2021, 11:52 a.m. Humanist 35.171",Virginia,,35.171,Aug. 4, 2021,11:52 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.171,Aug. 4, 2021,11:52 a.m.
-"Aug. 4, 2021, 12:02 p.m. Humanist 35.172","403 Forbidden
+"
+"Aug. 4, 2021, 12:02 p.m. Humanist 35.172",Virginia,,35.172,Aug. 4, 2021,12:02 p.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.172,Aug. 4, 2021,12:02 p.m.
-"Aug. 5, 2021, 4:01 p.m. Humanist 35.173","403 Forbidden
+"
+"Aug. 5, 2021, 4:01 p.m. Humanist 35.173",Virginia,,35.173,Aug. 5, 2021,4:01 p.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.173,Aug. 5, 2021,4:01 p.m.
-"Aug. 6, 2021, 6:40 a.m. Humanist 35.174","403 Forbidden
+"
+"Aug. 6, 2021, 6:40 a.m. Humanist 35.174",Virginia,,35.174,Aug. 6, 2021,6:40 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.174,Aug. 6, 2021,6:40 a.m.
-"Aug. 8, 2021, 7:17 a.m. Humanist 35.175","403 Forbidden
+"
+"Aug. 8, 2021, 7:17 a.m. Humanist 35.175",Virginia,,35.175,Aug. 8, 2021,7:17 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.175,Aug. 8, 2021,7:17 a.m.
-"Aug. 8, 2021, 7:49 a.m. Humanist 35.176","403 Forbidden
+"
+"Aug. 8, 2021, 7:49 a.m. Humanist 35.176",Virginia,,35.176,Aug. 8, 2021,7:49 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.176,Aug. 8, 2021,7:49 a.m.
-"Aug. 8, 2021, 7:51 a.m. Humanist 35.177","403 Forbidden
+"
+"Aug. 8, 2021, 7:51 a.m. Humanist 35.177",Virginia,,35.177,Aug. 8, 2021,7:51 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.177,Aug. 8, 2021,7:51 a.m.
-"Aug. 10, 2021, 7:05 a.m. Humanist 35.178","403 Forbidden
+"
+"Aug. 10, 2021, 7:05 a.m. Humanist 35.178",Virginia,,35.178,Aug. 10, 2021,7:05 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.178,Aug. 10, 2021,7:05 a.m.
-"Aug. 10, 2021, 7:09 a.m. Humanist 35.179","403 Forbidden
+"
+"Aug. 10, 2021, 7:09 a.m. Humanist 35.179",Virginia,,35.179,Aug. 10, 2021,7:09 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.179,Aug. 10, 2021,7:09 a.m.
-"Aug. 10, 2021, 7:37 a.m. Humanist 35.180","403 Forbidden
+"
+"Aug. 10, 2021, 7:37 a.m. Humanist 35.180",Virginia,,35.180,Aug. 10, 2021,7:37 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.180,Aug. 10, 2021,7:37 a.m.
-"Aug. 11, 2021, 7:10 a.m. Humanist 35.181","403 Forbidden
+"
+"Aug. 11, 2021, 7:10 a.m. Humanist 35.181",Virginia,,35.181,Aug. 11, 2021,7:10 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.181,Aug. 11, 2021,7:10 a.m.
-"Aug. 11, 2021, 7:12 a.m. Humanist 35.182","403 Forbidden
+"
+"Aug. 11, 2021, 7:12 a.m. Humanist 35.182",Virginia,,35.182,Aug. 11, 2021,7:12 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.182,Aug. 11, 2021,7:12 a.m.
-"Aug. 11, 2021, 7:16 a.m. Humanist 35.183","403 Forbidden
+"
+"Aug. 11, 2021, 7:16 a.m. Humanist 35.183",Virginia,,35.183,Aug. 11, 2021,7:16 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.183,Aug. 11, 2021,7:16 a.m.
-"Aug. 12, 2021, 6:53 a.m. Humanist 35.184","403 Forbidden
+"
+"Aug. 12, 2021, 6:53 a.m. Humanist 35.184",Virginia,,35.184,Aug. 12, 2021,6:53 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.184,Aug. 12, 2021,6:53 a.m.
-"Aug. 12, 2021, 6:55 a.m. Humanist 35.185","403 Forbidden
+"
+"Aug. 12, 2021, 6:55 a.m. Humanist 35.185",Virginia,,35.185,Aug. 12, 2021,6:55 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.185,Aug. 12, 2021,6:55 a.m.
-"Aug. 13, 2021, 6:29 a.m. Humanist 35.186","403 Forbidden
+"
+"Aug. 13, 2021, 6:29 a.m. Humanist 35.186",Virginia,,35.186,Aug. 13, 2021,6:29 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.186,Aug. 13, 2021,6:29 a.m.
-"Aug. 13, 2021, 6:58 a.m. Humanist 35.187","403 Forbidden
+"
+"Aug. 13, 2021, 6:58 a.m. Humanist 35.187",Virginia,,35.187,Aug. 13, 2021,6:58 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.187,Aug. 13, 2021,6:58 a.m.
-"Aug. 14, 2021, 7 a.m. Humanist 35.188","403 Forbidden
+"
+"Aug. 14, 2021, 7 a.m. Humanist 35.188",Virginia,,35.188,Aug. 14, 2021,7 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.188,Aug. 14, 2021,7 a.m.
-"Aug. 17, 2021, 7:35 a.m. Humanist 35.189","403 Forbidden
+"
+"Aug. 17, 2021, 7:35 a.m. Humanist 35.189",Virginia,,35.189,Aug. 17, 2021,7:35 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.189,Aug. 17, 2021,7:35 a.m.
-"Aug. 17, 2021, 7:36 a.m. Humanist 35.190","403 Forbidden
+"
+"Aug. 17, 2021, 7:36 a.m. Humanist 35.190",Virginia,,35.190,Aug. 17, 2021,7:36 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.190,Aug. 17, 2021,7:36 a.m.
-"Aug. 18, 2021, 6:57 a.m. Humanist 35.191","403 Forbidden
+"
+"Aug. 18, 2021, 6:57 a.m. Humanist 35.191",Virginia,,35.191,Aug. 18, 2021,6:57 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.191,Aug. 18, 2021,6:57 a.m.
-"Aug. 18, 2021, 6:59 a.m. Humanist 35.192","403 Forbidden
+"
+"Aug. 18, 2021, 6:59 a.m. Humanist 35.192",Virginia,,35.192,Aug. 18, 2021,6:59 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.192,Aug. 18, 2021,6:59 a.m.
-"Aug. 18, 2021, 7:01 a.m. Humanist 35.193","403 Forbidden
+"
+"Aug. 18, 2021, 7:01 a.m. Humanist 35.193",Virginia,,35.193,Aug. 18, 2021,7:01 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.193,Aug. 18, 2021,7:01 a.m.
-"Aug. 19, 2021, 6:29 a.m. Humanist 35.194","403 Forbidden
+"
+"Aug. 19, 2021, 6:29 a.m. Humanist 35.194",Virginia,,35.194,Aug. 19, 2021,6:29 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.194,Aug. 19, 2021,6:29 a.m.
-"Aug. 20, 2021, 8 a.m. Humanist 35.195","403 Forbidden
+"
+"Aug. 20, 2021, 8 a.m. Humanist 35.195",Virginia,,35.195,Aug. 20, 2021,8 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.195,Aug. 20, 2021,8 a.m.
-"Aug. 21, 2021, 8:14 a.m. Humanist 35.196","403 Forbidden
+"
+"Aug. 21, 2021, 8:14 a.m. Humanist 35.196",Virginia,,35.196,Aug. 21, 2021,8:14 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.196,Aug. 21, 2021,8:14 a.m.
-"Aug. 21, 2021, 8:16 a.m. Humanist 35.197","403 Forbidden
+"
+"Aug. 21, 2021, 8:16 a.m. Humanist 35.197",Virginia,,35.197,Aug. 21, 2021,8:16 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.197,Aug. 21, 2021,8:16 a.m.
-"Aug. 22, 2021, 7:06 a.m. Humanist 35.198","403 Forbidden
+"
+"Aug. 22, 2021, 7:06 a.m. Humanist 35.198",Virginia,,35.198,Aug. 22, 2021,7:06 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.198,Aug. 22, 2021,7:06 a.m.
-"Aug. 22, 2021, 7:08 a.m. Humanist 35.199","403 Forbidden
+"
+"Aug. 22, 2021, 7:08 a.m. Humanist 35.199",Virginia,,35.199,Aug. 22, 2021,7:08 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.199,Aug. 22, 2021,7:08 a.m.
-"Aug. 24, 2021, 6:25 a.m. Humanist 35.200","403 Forbidden
+"
+"Aug. 24, 2021, 6:25 a.m. Humanist 35.200",Virginia,,35.200,Aug. 24, 2021,6:25 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.200,Aug. 24, 2021,6:25 a.m.
-"Aug. 25, 2021, 7:23 a.m. Humanist 35.201","403 Forbidden
+"
+"Aug. 25, 2021, 7:23 a.m. Humanist 35.201",Virginia,,35.201,Aug. 25, 2021,7:23 a.m.,"403 Forbidden
 Request forbidden by administrative rules.
 
-",Virginia,,35.201,Aug. 25, 2021,7:23 a.m.
+"
